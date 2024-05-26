@@ -68,7 +68,7 @@ const Header = () => {
                 className="h-5 w-5 rounded-full"
                 src="https://images.tokopedia.net/img/cache/300/tPxBYm/2023/1/20/0c17a989-7381-454e-92f5-488ae5fe16f4.jpg"
               />
-              Samsul
+              Rizki 
             </div>
           ) : (
             <>
@@ -99,7 +99,7 @@ const Header = () => {
             <img src={iconLocation} className="h-4 w-4" />
             <div className="text-11 flex">
               <p className="mr-1">Dikirim ke</p>
-              <b>Jakarta Pusat</b>
+              <b>Bogor</b>
               <img src={iconChavronDown} className="h-4 w-4" />
             </div>
           </div>

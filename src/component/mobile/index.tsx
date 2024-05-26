@@ -85,7 +85,7 @@ const MobileDesain = () => {
             <img src={iconLocationActive} className="h-4 w-4" />
             <div className="flex items-center text-12">
               <p className="mr-1">Dikirim ke</p>
-              <b>Jakarta Pusat</b>
+              <b>Bogor</b>
               <img src={iconChavronDown} className="h-4 w-4" />
             </div>
           </div>
@@ -94,7 +94,7 @@ const MobileDesain = () => {
           <div className="flex flex-row gap-2">
             <img src={iconProfile} className="h-8 w-8 rounded-full" />
             <div className="flex flex-col">
-              <strong className="text-12">Hai, Samsul</strong>
+              <strong className="text-12">Hai, Rizki</strong>
               <p className="text-[10px] text-color1">Cek update di akunmu, yuk~</p>
             </div>
           </div>
