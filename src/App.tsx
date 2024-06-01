@@ -1,5 +1,5 @@
 import { Header, KategoriAndTopUp, MobileDesain, SimpleSlider } from "./component";
-import ProductCard from "./component/product/ProductCard";
+
 
 function App() {
   return (
@@ -8,7 +8,6 @@ function App() {
         <Header />
         <SimpleSlider />
         <KategoriAndTopUp />
-        <ProductCard />
       </div>
       <div className="flex h-full flex-col lg:hidden xxl:flex large:hidden">
         <div className="flex justify-center">
